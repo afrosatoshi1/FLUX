@@ -1,0 +1,8 @@
+{
+  "name": "Lumina - AI Social Memories",
+  "description": "A snap-style gallery that uses AI to capture, enhance, organize, and share your memories with friends.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
